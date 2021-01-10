@@ -16,6 +16,13 @@ p {
   font-size: 1.3rem;
 }
 
+/* Placing */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Typography */
 h1, h2, h3, h4, h5, h6 { 
   font-family:font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -25,4 +32,4 @@ h1, .h1, h2, .h2, h3, .h3 {
   margin-top:30px;
 } 
 
-
+/* Stylish */
