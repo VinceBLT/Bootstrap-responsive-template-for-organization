@@ -1,6 +1,11 @@
 /* Sizing*/
-.jumbotron {
+#hero {
   height: 43rem;
+  background-size: auto 100%;
+}
+
+.jumbotron {
+  background-color: rgb(3, 169, 219);
 }
 
 h1 + p {
