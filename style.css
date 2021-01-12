@@ -4,6 +4,10 @@
   background-size: auto 100%;
 }
 
+#equipeJumbo {
+  background-color: rgb(2, 100, 2);
+}
+
 .jumbotron {
   background-color: rgb(3, 169, 219);
 }
