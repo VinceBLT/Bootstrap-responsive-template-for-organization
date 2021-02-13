@@ -1,5 +1,4 @@
 # Bootstrap-responsive-template-for-organization
-html/css association exercice
 
 This is my first study project using html/css with Bootstrap.
 
